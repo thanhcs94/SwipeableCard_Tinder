@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#009688</color>
+    <color name="primaryDark">#00695C</color>
+    <color name="accent">#00796B</color>
+
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+    <color name="white">#ffffff</color>
+    <color name="orange">#ffffdc7e</color>
+    <color name="navi">#252b46</color>
+    <color name="textcolorhome">#5f5f5f</color>
+    <color name="grey">#ffd3d3d3</color>
+    <color name="green">#ff8dd304</color>
+    <color name="blue2">#006789</color>
+    <color name="blue">#ff82e0ff</color>
+    <color name="yellow">#fffffbae</color>
+    <color name="red">#fff10800</color>
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow">#10000000</color>
+    <color name="lite_blue">#ff359ff2</color>
+    <color name="window_background">#00000000</color>
+    <color name="black_de">#de0d0c0c</color>
+    <color name="list_item_pressed">#1A000000</color>
+    <color name="ColorPrimary">#e62117</color>
+    <color name="ColorPrimaryDark">#c31c13</color>
+    <color name="tabsScrollColor">#8a140e</color>
+    <color name="username">#212121</color>
+     <color name="userview">#607D8B</color>
+    <color name="cricle_select">#ff0000</color>
+    <color name="cricle_notselect">#cbcbcb</color>
+    <color name="black">#000</color>
+    <color name="transparent">#00000000</color>
+    <color name="sliding_menu_bg">#BF666666</color>
+    <color name="facebook">#3b5999</color>
+    <color name="twitter">#01bbf6</color>
+    <color name="share">#5b9139</color>
+    <color name="list_selector">#BF424242</color>
+    <color name="facebook_pressed">#4a6eba</color>
+    <color name="twitter_pressed">#66ccff</color>
+    <color name="share_pressed">#6cac44</color>
+    <color name="grid_state_pressed">#BB561e14</color>
+    <color name="grid_state_focused">#77561e14</color>
+    <color name="transparent2">#00000000</color>
+    <color name="white2">#fff</color>
+    <color name="black2">#000</color>
+    <color name="hoido">#FF5252</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="xanhdam">#1A237E</color>
+    <color name="teal">#009688</color>
+    <color name="teal2">#009688</color>
+    <color name="green2">#388E3C</color>
+    <color name="select">#2000</color>
+    <color name="grey2">#616161</color>
+    <color name="blugrey">#607D8B</color>
+    <color name="blugrey2">#607D8B</color>
+    <color name="primary_color">#37474f</color>
+    <color name="xanhnhat">#00BBD2</color>
+    <color name="fbutton_default_color">#3eadeb</color>
+    <color name="fbutton_default_shadow_color">#ff3493c8</color>
+    //Color Swatches provided by http://designmodo.github.io/Flat-UI/
+    <color name="fbutton_color_turquoise">#1abc9c</color>
+    <color name="fbutton_color_green_sea">#16a085</color>
+    <color name="fbutton_color_emerald">#2ecc71</color>
+    <color name="fbutton_color_nephritis">#27ae60</color>
+    <color name="fbutton_color_peter_river">#3498db</color>
+    <color name="fbutton_color_belize_hole">#2980b9</color>
+    <color name="fbutton_color_amethyst">#9b59b6</color>
+    <color name="fbutton_color_wisteria">#8e44ad</color>
+    <color name="fbutton_color_wet_asphalt">#34495e</color>
+    <color name="fbutton_color_midnight_blue">#2c3e50</color>
+    <color name="fbutton_color_sun_flower">#f1c40f</color>
+    <color name="fbutton_color_orange">#f39c12</color>
+    <color name="fbutton_color_carrot">#e67e22</color>
+    <color name="fbutton_color_pumpkin">#d35400</color>
+    <color name="fbutton_color_alizarin">#e74c3c</color>
+    <color name="fbutton_color_pomegranate">#c0392b</color>
+    <color name="fbutton_color_clouds">#ecf0f1</color>
+    <color name="fbutton_color_silver">#bdc3c7</color>
+    <color name="fbutton_color_concrete">#95a5a6</color>
+    <color name="fbutton_color_asbestos">#7f8c8d</color>
+    <color name="fbutton_color_transparent">@android:color/transparent</color>
+    <color name="accent_pressed">#1976D2</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="textsplash">#424242</color>
+    <color name="titlecolor">#254b69</color>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+    <color name="accent_500">#E91E63</color>
+    <!--Pink 700-->
+    <color name="accent_700">#C2185B</color>
+
+    <color name="hover1">#00e4c9</color>
+    <color name="hover2">#6057fe</color>
+    <color name="hover3">#fef35b</color>
+    <color name="hover4">#e446b5</color>
+    <color name="hover5">#2f91fe</color>
+
+
+    <string-array name="colors">
+        <item>#aa00ff</item>
+        <item>#6200ea</item>
+        <item>#4d69ff</item>
+        <item>#0091ea</item>
+        <item>#00b8d4</item>
+        <item>#00bfa5</item>
+        <item>#12c700</item>
+        <item>#dd2c00</item>
+        <item>#ff6d00</item>
+        <item>#3db29d</item>
+        <item>#eb6462</item>
+        <item>#ffc34a</item>
+        <item>#7f4899</item>
+        <item>#428ac6</item>
+        <item>#b5433b</item>
+        <item>#babe2f</item>
+        <item>#ffc34a</item>
+        <item>#3db29d</item>
+        <item>#b5433b</item>
+    </string-array>
+</resources>
